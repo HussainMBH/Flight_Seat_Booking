@@ -73,7 +73,7 @@ public class Flight
         passengerDetails.remove(indexToRemove);
         passengerCost.remove(indexToRemove);
 
-        System.out.println("Cancelled Booked Tickets Successfully!");
+        //System.out.println("Cancelled Booked Tickets Successfully!");
 
     }
 
